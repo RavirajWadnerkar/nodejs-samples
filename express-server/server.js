@@ -22,3 +22,4 @@ app.listen(3000, function(){
 // 3. then moved to expressjs
     // 3.1 created a basic server using expressjs
     // 3.2 created routes/api's
+// 4. server with nodemonjs
